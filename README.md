@@ -5,13 +5,13 @@ An attendance list for our Git Workshop meeting
 # Before you start
 Slides from the meeting can be found at: https://docs.google.com/presentation/d/1nh1RKK5nhOU8-vdKTfimoBR_49lVxeMrNvdd5hjIVgA/edit?usp=sharing
 Go to https://learngitbranching.js.org and work through a couple problems until you feel comfortable with the commands we went over today.
-Make sure that you have installed git on your computer.
+Make sure that you have installed git on your computer. This read me is not a perfect guide, there may be issues that you run into. Using google to work through is helpful for learning, but feel free to ask if you have any questions.
 
 # Goal
-Everybody should add their name to the attendance.txt file.
+Everybody should add their name to the attendance.txt file. Doing this will make sure everyone is familiar with the basics of Git and the process of making changes to a repository. 
 
 # Clone the repository
-Clone the repository to your local computer - this is a straightforward process, but we did not go over it on purpose. Use the GitHub documentation and google to learn how to do this. Knowing how to google correctly is extremely important. 
+Clone the repository to your local computer - this is a straightforward process, but we did not go over it on purpose. Use the GitHub documentation and google to figure this out. Knowing how to google correctly is extremely important. 
 
 # Create and checkout a new branch
 Create a branch to add your name. Make sure that the branch is up to date.
