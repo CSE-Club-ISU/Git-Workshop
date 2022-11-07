@@ -3,6 +3,7 @@ An attendance list for our Git Workshop meeting
 
 
 # Before you start
+Slides from the meeting can be found at: https://docs.google.com/presentation/d/1nh1RKK5nhOU8-vdKTfimoBR_49lVxeMrNvdd5hjIVgA/edit?usp=sharing
 Go to https://learngitbranching.js.org and work through a couple problems until you feel comfortable with the commands we went over today
 Make sure that you have installed git on your computer
 
